@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background: #000000;
+    font-size: 20px;
+}
+
+h1 {
+
+    background: #348ad4;
+    color: #23e257;
+    text-align: center;
+}
+
+p {
+    color: #7ddd42;
+    width: 350px;
+}
+
+
+.wrapper {
+    width: 900px;
+    margin:0 auto;
+}
+
+h2 {
+
+    background: #0014ff;
+    color: #f8208c;
+    text-align: center;
+}
+
+img {
+    width: 350px;
+}
+
+.link-more {
+    background: #59dcfc;
+    color: blueviolet;
+    padding: 8px 20px;
+    transition: 1s;
+}
+
+.link-more:hover{
+    background: #00ff76;
+}
+
+.a{
+    height:300px;
+    width: 300px;
+    background: #3412ef;
+        
+}
